@@ -1,4 +1,4 @@
-## Made with love, talena
+## Made with love, talena ♥
 | Features | Working | N/A |
 | :------- | :-------: | --------: |
 | Get Client ID | ✅  | |
